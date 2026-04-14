@@ -36,12 +36,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abhi0033-eng&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhi0033-eng&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Abhi0833-eng&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhi0833-eng&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Abhi0033-eng&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Abhi0833-eng&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -49,7 +49,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Abhi0033-eng&theme=tokyonight&no-frame=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Abhi0833-eng&theme=tokyonight&no-frame=true&row=1&column=7" />
 </p>
 
 ---
@@ -97,13 +97,13 @@
 
 | Project | Description | Tech | Link |
 |--------|-------------|------|------|
-| 💳 [Loan Detection](https://github.com/Abhi0033-eng/loan-default-prediction) | ML model to predict loan default risk with high accuracy using classification algorithms | Python, Scikit-learn, Pandas, NumPy, Flask/Streamlit, Jupyter | [🌐 View](https://abhi0033-portfolio.netlify.app/#projects) |
-| 🏘️ [Smart Panchayat](https://github.com/Abhi0033-eng/smart-panchayat) | AI-powered digital governance platform for rural panchayats — complaints, schemes & tracking | Python, React, Node.js, MongoDB, Firebase, AI/ML, Postman | [🌐 View](https://abhi0033-portfolio.netlify.app/#projects) |
-| 📄 [AI Resume Analyser](https://github.com/Abhi0033-eng/ai_resume_analyzer) | NLP-based resume parser & analyser that scores resumes and suggests improvements | Python, NLP, spaCy/NLTK, Flask/FastAPI, React, Tailwind CSS, Vercel, Render | [🌐 View](https://abhi0033-portfolio.netlify.app/#projects) |
-| 🗑️ [Smart Dustbin IoT](https://github.com/Abhi0033-eng/smartdustbinusingiot) | Automated waste management using ultrasonic sensors & IoT | IoT, Arduino | [🌐 View](https://abhi0033-portfolio.netlify.app/#projects) |
-| 🎓 [Student Performance Analysis](https://github.com/Abhi0033-eng/Student_Performance_analysis) | ML model predicting student academic outcomes | Python, ML, Pandas | [🌐 View](https://abhi0033-portfolio.netlify.app/#projects) |
-| 💰 [Decentralized Escrow Service](https://github.com/Abhi0033-eng/DecentralizedEscrowService) | Secure trustless blockchain transactions using smart contracts | Move | [🌐 View](https://abhi0033-portfolio.netlify.app/#projects) |
-| ❤️ [Charity Support Platform](https://github.com/Abhi0033-eng/Charity_Support_Platform) | Platform to connect donors with verified charitable causes | JavaScript | [🌐 View](https://abhi0033-portfolio.netlify.app/#projects) |
+| 💳 [Loan Detection](https://github.com/Abhi0833-eng/loan-default-prediction) | ML model to predict loan default risk with high accuracy using classification algorithms | Python, Scikit-learn, Pandas, NumPy, Flask/Streamlit, Jupyter | [🌐 View](https://abhi0033-portfolio.netlify.app/#projects) |
+| 🏘️ [Smart Panchayat](https://github.com/Abhi0833-eng/smart-panchayat) | AI-powered digital governance platform for rural panchayats — complaints, schemes & tracking | Python, React, Node.js, MongoDB, Firebase, AI/ML, Postman | [🌐 View](https://abhi0033-portfolio.netlify.app/#projects) |
+| 📄 [AI Resume Analyser](https://github.com/Abhi0833-eng/ai_resume_analyzer) | NLP-based resume parser & analyser that scores resumes and suggests improvements | Python, NLP, spaCy/NLTK, Flask/FastAPI, React, Tailwind CSS, Vercel, Render | [🌐 View](https://abhi0033-portfolio.netlify.app/#projects) |
+| 🗑️ [Smart Dustbin IoT](https://github.com/Abhi0833-eng/smartdustbinusingiot) | Automated waste management using ultrasonic sensors & IoT | IoT, Arduino | [🌐 View](https://abhi0033-portfolio.netlify.app/#projects) |
+| 🎓 [Student Performance Analysis](https://github.com/Abhi0833-eng/Student_Performance_analysis) | ML model predicting student academic outcomes | Python, ML, Pandas | [🌐 View](https://abhi0033-portfolio.netlify.app/#projects) |
+| 💰 [Decentralized Escrow Service](https://github.com/Abhi0833-eng/DecentralizedEscrowService) | Secure trustless blockchain transactions using smart contracts | Move | [🌐 View](https://abhi0033-portfolio.netlify.app/#projects) |
+| ❤️ [Charity Support Platform](https://github.com/Abhi0833-eng/Charity_Support_Platform) | Platform to connect donors with verified charitable causes | JavaScript | [🌐 View](https://abhi0033-portfolio.netlify.app/#projects) |
 
 
 ---
@@ -124,5 +124,5 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Abhi0033-eng&color=blueviolet&style=flat-square&label=Profile+Views" />
+  <img src="https://komarev.com/ghpvc/?username=Abhi0833-eng&color=blueviolet&style=flat-square&label=Profile+Views" />
 </p>
